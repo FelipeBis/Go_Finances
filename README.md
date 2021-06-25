@@ -28,12 +28,12 @@
 
 <h2 align="center">Preview 📱</h2>
 <p align="center">
-      <img src="https://raw.githubusercontent.com/FelipeBis/Dev_Quiz/main/assets/screenshot/Screenshot_1622748847.png" width="300" alt="SplashPage"/>
-      <img src="https://raw.githubusercontent.com/FelipeBis/Dev_Quiz/main/assets/screenshot/Screenshot_1622748850.png" width="300" alt="HomePage"/>
+      <img src="https://raw.githubusercontent.com/FelipeBis/Go_Finances/main/src/assets/screenshot/Screenshot_1624651246.png" width="300" alt="SplashPage"/>
+      <img src="https://raw.githubusercontent.com/FelipeBis/Go_Finances/main/src/assets/screenshot/Screenshot_1624651348.png" width="300" alt="HomePage"/>
 </p>
 <p align="center">
-      <img src="https://raw.githubusercontent.com/FelipeBis/Dev_Quiz/main/assets/screenshot/Screenshot_1622748864.png" width="300" alt="QuizPage"/>
-      <img src="https://raw.githubusercontent.com/FelipeBis/Dev_Quiz/main/assets/screenshot/Screenshot_1622748871.png" width="300" alt="ResultPage"/>
+      <img src="https://raw.githubusercontent.com/FelipeBis/Go_Finances/main/src/assets/screenshot/Screenshot_1624651272.png" width="300" alt="QuizPage"/>
+      <img src="https://raw.githubusercontent.com/FelipeBis/Go_Finances/main/src/assets/screenshot/Screenshot_1624651352.png" width="300" alt="ResultPage"/>
 </p>
 
 ---
