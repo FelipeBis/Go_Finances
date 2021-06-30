@@ -60,7 +60,7 @@
    First of all, correctly configure the Flutter development environment on your machine, see https://flutter.dev/docs/get-started/install
    
    - Clone this repository:
-   $ git clone https://github.com/FelipeBis/Go_Finances go_finances
+   $ git clone https://github.com/fdbisdev/Go_Finances go_finances
 
    - Enter in directory:
    $ cd go_finances
